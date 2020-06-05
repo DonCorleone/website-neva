@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neva</title>
+    <description>bli bla blu</description>
+    <link>https://neva-wieland-lu-home.netlify.app/</link>
+    <atom:link href="https://neva-wieland-lu-home.netlify.app/feed/index.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Jun 2020 20:00:51 +0200</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2020 20:00:51 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      
+        <item>
+          
+            <title>nomol</title>
+          
+          <author>hello@patdryburgh.com (Neva)</author>
+          <description>
+            &lt;p&gt;3&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/nevaBlog/assets/uploads/20200601.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+          </description>
+          <pubDate>Thu, 04 Jun 2020 19:50:41 +0200</pubDate>
+          <link>https://neva-wieland-lu-home.netlify.app/2020/06/04/nomol.html</link>
+          <guid isPermaLink="true">https://neva-wieland-lu-home.netlify.app/2020/06/04/nomol.html</guid>
+          
+          
+        </item>
+      
+    
+  </channel>
+</rss>

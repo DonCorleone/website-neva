@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Neva",
+    "home_page_url": "https://neva-wieland-lu-home.netlify.app/",
+    "feed_url": "https://neva-wieland-lu-home.netlify.app/feed.json",
+    "description": "bli bla blu",
+    "icon": "https://neva-wieland-lu-home.netlify.app/assets/images/icon-512.png",
+    "favicon": "https://neva-wieland-lu-home.netlify.app/favicon.ico",
+    "expired": false,
+    "items": [
+    
+      
+        
+        
+        {
+            "id": "https://neva-wieland-lu-home.netlify.app/2020/06/04/nomol.html",
+            "title": "nomol",
+            "content_text": "3\n\n\n",
+            "content_html": "<p>3</p>\n\n<p><img src=\"/nevaBlog/assets/uploads/20200601.jpg\" alt=\"\" /></p>\n",
+            "url": "https://neva-wieland-lu-home.netlify.app/2020/06/04/nomol.html",
+            "date_published": "2020-06-04T19:50:41+02:00",
+            "date_modified": "2020-06-04T19:50:41+02:00",
+            "author": {
+                "name": "neva"
+            }
+        }
+        
+    
+    ]
+}
