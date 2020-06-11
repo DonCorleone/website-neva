@@ -5,3 +5,6 @@ gemspec
 
 # for demo site
 gem "jekyll-paginate"
+
+# GitHub-flavored Emoji plugin for Jekyll
+gem "jemoji"
