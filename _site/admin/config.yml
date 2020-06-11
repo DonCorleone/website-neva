@@ -64,4 +64,7 @@ collections:
             widget: "list"
             fields:
               - {label: Title, name: title, widget: string}
-              - {label: Link, name: url, widget: string}
+              - {label: Link, name: url, widget: string} 
+  - name: 'emojis'
+    label: 'Emojis'
+    folder: 'https://www.webfx.com/tools/emoji-cheat-sheet/'
