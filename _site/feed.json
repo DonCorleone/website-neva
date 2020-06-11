@@ -15,8 +15,8 @@
         {
             "id": "http://localhost:4000/2020/06/05/supernew.html",
             "title": "supernew",
-            "content_text": "old sams\n\n\n\n:trolleybus:\n",
-            "content_html": "<p>old sams</p>\n\n<p><img src=\"/assets/uploads/my_stratos_jump.jpg\" alt=\"\" /></p>\n\n<h1 id=\"trolleybus\">:trolleybus:</h1>\n",
+            "content_text": ":heart:\n\n\nold sams\n\n\n\n:trolleybus:\n",
+            "content_html": "<div class=\"language-markdown highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>:heart:\n</code></pre></div></div>\n\n<p>old sams</p>\n\n<p><img src=\"/assets/uploads/my_stratos_jump.jpg\" alt=\"\" /></p>\n\n<h1 id=\"trolleybus\">:trolleybus:</h1>\n",
             "url": "http://localhost:4000/2020/06/05/supernew.html",
             "date_published": "2020-06-05T15:35:04+02:00",
             "date_modified": "2020-06-05T15:35:04+02:00",
