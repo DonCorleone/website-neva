@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neva</title>
+    <description>bli bla blu</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Jun 2020 00:05:16 +0200</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2020 00:05:16 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      
+        <item>
+          
+            <title>supernew</title>
+          
+          <author>hello@patdryburgh.com (Neva)</author>
+          <description>
+            &lt;p&gt;old sams&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/uploads/my_stratos_jump.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+          </description>
+          <pubDate>Fri, 05 Jun 2020 15:35:04 +0200</pubDate>
+          <link>http://localhost:4000/2020/06/05/supernew.html</link>
+          <guid isPermaLink="true">http://localhost:4000/2020/06/05/supernew.html</guid>
+          
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>nomol</title>
+          
+          <author>hello@patdryburgh.com (Neva)</author>
+          <description>
+            &lt;p&gt;3&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/uploads/20200601.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;:heart:&lt;/p&gt;
+
+          </description>
+          <pubDate>Thu, 04 Jun 2020 19:50:41 +0200</pubDate>
+          <link>http://localhost:4000/2020/06/04/nomol.html</link>
+          <guid isPermaLink="true">http://localhost:4000/2020/06/04/nomol.html</guid>
+          
+          
+        </item>
+      
+    
+  </channel>
+</rss>
