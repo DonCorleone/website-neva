@@ -7,4 +7,4 @@ gemspec
 gem "jekyll-paginate"
 
 # GitHub-flavored Emoji plugin for Jekyll
-gem "jemoji"
+gem 'jemoji'
